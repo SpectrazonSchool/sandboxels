@@ -1,4 +1,4 @@
-elements.teleport = {
+elements.teleport2 = {
     color: "#FFFFFF",
     behavior: behaviors.WALL,
     category: "special",
